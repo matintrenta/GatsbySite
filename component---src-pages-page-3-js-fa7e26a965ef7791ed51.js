@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[912],{3461:function(e,t,a){"use strict";a.r(t);var l=a(7294),n=a(5444),r=a(5127),u=a(3751);t.default=function(){return l.createElement(r.Z,null,l.createElement(u.Z,{title:"Page two"}),l.createElement("h1",null,"Hi from the third page"),l.createElement("p",null,"Welcome to page 3"),l.createElement(n.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-3-js-fa7e26a965ef7791ed51.js.map
